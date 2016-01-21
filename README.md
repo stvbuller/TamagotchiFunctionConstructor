@@ -1,0 +1,2 @@
+# TamagotchiFunctionConstructor
+function constructor example
