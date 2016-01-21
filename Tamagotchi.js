@@ -30,7 +30,7 @@ function Tamagotchi(hungry, sick, age) {
   }
 }
 
-var dog = new Tamagotchi
+var dog = new Tamagotchi();
 dog.bark = function () {
   console.log("ruff ruff");
 }
@@ -39,7 +39,7 @@ dog.goOutside = function() {
   console.log("I own that tree now!");
 }
 
-var cat = new Tamagotchi;
+var cat = new Tamagotchi();
 cat.meow = function() {
   console.log("Meow!");
 }
